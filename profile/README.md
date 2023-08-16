@@ -162,3 +162,15 @@ public void SetInt(int value)
     ms_Value = value;
 }
 ```
+
+## Type Definitions
+
+```cs
+public enum Direction
+{
+    North,
+    South,
+    East,
+    West
+}
+```
