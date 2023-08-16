@@ -141,3 +141,24 @@ private static void PrivateStaticMethod()
 
 }
 ```
+
+## Methods
+
+```cs
+private void Method(int number, string text)
+{
+    const int localConstant = 0;
+
+    int localVariable;
+}
+
+public int GetInt()
+{
+    return 0;
+}
+
+public void SetInt(int value)
+{
+    ms_Value = value;
+}
+```
