@@ -1,10 +1,10 @@
 # VOLVOX GAMES UNITY NAMING CONVENTIONS
 
-- <a href="example-cs">Example.cs</a>
+- <a href="#examplecs">Example.cs</a>
 - <a href="method">Methods</a>
-- <a href="type-definitions">Type Definitions</a>
+- <a href="typedefinitions">Type Definitions</a>
 
-## Example.cs {#example-cs}
+## Example.cs
 
 ```cs
 // CONSTANTS -------------------------------------------------------------------------------
