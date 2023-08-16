@@ -170,6 +170,16 @@ public void SetInt(int value)
 ## Type Definitions
 
 ```cs
+public interface IType
+{
+
+}
+
+public class MyScriptableObjectSO : ScriptableObject
+{
+
+}
+
 public enum Direction
 {
     North,
