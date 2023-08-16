@@ -1,6 +1,10 @@
 # VOLVOX GAMES UNITY NAMING CONVENTIONS
 
-## Example.cs
+- <a href="example-cs">Example.cs</a>
+- <a href="method">Methods</a>
+- <a href="type-definitions">Type Definitions</a>
+
+## Example.cs {#example-cs}
 
 ```cs
 // CONSTANTS -------------------------------------------------------------------------------
@@ -142,7 +146,7 @@ private static void PrivateStaticMethod()
 }
 ```
 
-## Methods
+## Methods {#methods}
 
 ```cs
 private void Method(int number, string text)
@@ -163,7 +167,7 @@ public void SetInt(int value)
 }
 ```
 
-## Type Definitions
+## Type Definitions {#type-definitions}
 
 ```cs
 public enum Direction
